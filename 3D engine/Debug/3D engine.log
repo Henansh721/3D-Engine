@@ -1,0 +1,28 @@
+﻿  3D engine.cpp
+D:\Projects\3D engine\3D engine\3D engine.cpp(92,39): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\3D engine\3D engine\3D engine.cpp(110,67): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Projects\3D engine\3D engine\3D engine.cpp(110,88): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Projects\3D engine\3D engine\3D engine.cpp(110,109): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Projects\3D engine\3D engine\3D engine.cpp(508,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\3D engine\3D engine\3D engine.cpp(508,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  3D engine.vcxproj -> D:\Projects\3D engine\Debug\3D engine.exe
